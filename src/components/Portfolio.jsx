@@ -38,7 +38,7 @@ const Portfolio = () => {
             <button className="btn btn-danger rounded-pill">Web</button>
           </div>
         </div>
-        <div className="row align-content-start">
+        <div className="row align-content-start border border-5 border-dark">
           <div className="col col-12 col-lg-4 border border-danger">
             <img src={Portfolio1} className="img-fluid"></img>
           </div>
